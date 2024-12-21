@@ -27,5 +27,5 @@ Visualizations are saved as PNG files for easy reference.
 - Python (pandas, matplotlib, seaborn)
 
 ## Blog Post
-For a non-technical summary, refer to the blog post: [Link to Blog Post]
+For a non-technical summary, refer to the blog post: (https://medium.com/@cw.smith_12977/unlocking-insights-from-seattles-airbnb-market-a-data-driven-exploration-8e5a1d496265)
 
