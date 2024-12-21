@@ -18,26 +18,7 @@ This project analyzes Airbnb listings, calendar data, and reviews from Seattle t
 
 ### Repository Structure:
 Here’s how the repository is organized:
-├── .gitignore
-├── Airbnb_Seattle_Analysis.ipynb # Jupyter Notebook with full analysis
-├── README.md # Project README file
-├── requirements.txt # Dependencies for the project
-├── data/ # Contains raw and cleaned datasets
-│ ├── calendar.csv # Original calendar dataset
-│ ├── calendar_cleaned.csv # Cleaned calendar data
-│ ├── listings.csv # Original listings dataset
-│ ├── listings_cleaned.csv # Cleaned listings data
-│ ├── reviews.csv # Original reviews dataset
-│ ├── reviews_cleaned.csv # Cleaned reviews data
-├── output/ # Output visualizations
-│ ├── Availability Over Time.png
-│ ├── Number of Reviews Over Time.png
-│ ├── output1.png
-│ ├── output2.png
-│ ├── output3.png
-│ ├── Price Distribution of Listings (After Outlier Removal).png
-│ ├── Price Distribution of Listings (Before Outlier Removal).png
-│ ├── Room Type Distribution.png
+. ├── .gitignore ├── Airbnb_Seattle_Analysis.ipynb # Jupyter Notebook with full analysis ├── README.md # Project README file ├── requirements.txt # Dependencies for the project ├── data/ # Contains raw and cleaned datasets │ ├── calendar.csv # Original calendar dataset │ ├── calendar_cleaned.csv # Cleaned calendar data │ ├── listings.csv # Original listings dataset │ ├── listings_cleaned.csv # Cleaned listings data │ ├── reviews.csv # Original reviews dataset │ ├── reviews_cleaned.csv # Cleaned reviews data ├── output/ # Output visualizations │ ├── Availability Over Time.png │ ├── Number of Reviews Over Time.png │ ├── output1.png │ ├── output2.png │ ├── output3.png │ ├── Price Distribution of Listings (After Outlier Removal).png │ ├── Price Distribution of Listings (Before Outlier Removal).png │ ├── Room Type Distribution.png
 ---
 
 ### Tools Used:
